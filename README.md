@@ -101,11 +101,11 @@ print('Mean Absolute Error:', mae)
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/1e18259b-1248-4aad-b4a7-755a7716f414)
+<img src="https://github.com/user-attachments/assets/1e18259b-1248-4aad-b4a7-755a7716f414" width="400">
 
-![image](https://github.com/user-attachments/assets/545c33c7-3f3f-424e-bed3-53f0546ec9ca)
+<img src="https://github.com/user-attachments/assets/545c33c7-3f3f-424e-bed3-53f0546ec9ca" width ="500">
 
-![image](https://github.com/user-attachments/assets/4bc5141c-47a7-4157-9af9-6c2d92066fdc)
+<img src="https://github.com/user-attachments/assets/4bc5141c-47a7-4157-9af9-6c2d92066fdc" width =400">
 
 ### RESULT:
 Thus the program run successfully based on the SARIMA model.
